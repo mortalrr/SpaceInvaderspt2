@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 79f736bfabb23e3479d4c99e57ae7bcb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyedBarricadePrefab: {fileID: 1618996093187202393, guid: c0ef5a1f649b00d4797296577485c043, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
